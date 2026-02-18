@@ -5,3 +5,4 @@ A simple learning Spring Boot MVC CRUD application demonstrating how to implemen
 - Entity Classes dev. done
     - schema design done 
 - Controllers Under dev.
+    - some backend logics left 

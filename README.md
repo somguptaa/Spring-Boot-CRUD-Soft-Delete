@@ -5,4 +5,7 @@ A simple learning Spring Boot MVC CRUD application demonstrating how to implemen
 - Entity Classes dev. done
     - schema design done 
 - Controllers Under dev.
-    - some backend logics left 
+    - some backend logics left
+- Soft delete will work on the stutus like
+    - if stutus is active then only user have permission for doing operation
+    - otherwise not allowed
